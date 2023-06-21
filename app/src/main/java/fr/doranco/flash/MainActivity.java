@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        SpecialiteDatabaseTest test = new SpecialiteDatabaseTest(this);
-        test.start();
+
     }
 }
