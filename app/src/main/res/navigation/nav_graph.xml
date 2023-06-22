@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/accueilFragment">
+    <fragment
+        android:id="@+id/accueilFragment"
+        android:name="fr.doranco.flash.fragments.AccueilFragment"
+        android:label="@string/accueil_string"
+        tools:layout="@layout/fragment_accueil" />
+    <fragment
+        android:id="@+id/specialiteFragment"
+        android:name="fr.doranco.flash.fragments.SpecialiteFragment"
+        android:label="@string/specialite_string"
+        tools:layout="@layout/fragment_specialite" />
+    <fragment
+        android:id="@+id/etudiantFragment"
+        android:name="fr.doranco.flash.fragments.EtudiantFragment"
+        android:label="@string/etudiant_string"
+        tools:layout="@layout/fragment_etudiant" />
+    <fragment
+        android:id="@+id/coursFragment"
+        android:name="fr.doranco.flash.fragments.CoursFragment"
+        android:label="@string/cours_string"
+        tools:layout="@layout/fragment_cours" />
+</navigation>

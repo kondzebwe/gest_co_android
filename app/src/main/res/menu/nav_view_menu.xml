@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/accueilFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/accueil_string"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/specialiteFragment"
+        android:icon="@drawable/baseline_school_24"
+        android:title="@string/specialite_string"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/etudiantFragment"
+        android:icon="@drawable/baseline_people_24"
+        android:title="@string/etudiant_string"
+        android:checkable="true"/>
+    <item
+        android:id="@+id/coursFragment"
+        android:icon="@drawable/baseline_book_24"
+        android:title="@string/cours_string"
+        android:checkable="true"/>
+</menu>

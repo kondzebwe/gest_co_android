@@ -3,11 +3,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="seed">#6750A4</color>
-    <color name="md_theme_light_primary">#6750A4</color>
+    <color name="md_theme_light_primary">#31101D</color>
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
     <color name="md_theme_light_primaryContainer">#E9DDFF</color>
     <color name="md_theme_light_onPrimaryContainer">#22005D</color>
-    <color name="md_theme_light_secondary">#625B71</color>
+    <color name="md_theme_light_secondary">#93000A</color>
     <color name="md_theme_light_onSecondary">#FFFFFF</color>
     <color name="md_theme_light_secondaryContainer">#E8DEF8</color>
     <color name="md_theme_light_onSecondaryContainer">#1E192B</color>
